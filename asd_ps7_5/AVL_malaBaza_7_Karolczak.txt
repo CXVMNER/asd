@@ -1,0 +1,7 @@
+family,rodzina,
+minute,minuta,
+photo,zdjęcie,
+teacher,nauczyciel,
+winter,zima,
+yes,tak,
+bee,pszczoła,
